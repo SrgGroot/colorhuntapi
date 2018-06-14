@@ -44,11 +44,11 @@ Submit a pull request!
 
 
 
-###Author
+### Author
 Sam Groot
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-###Acknowledgments
-Hat tip to Zeit for their awesome and easy to use Micro service and great documentation across the board. Also Jared Wilcurt who would think this is pretty nifty.
+### Acknowledgments
+Hat tip to Zeit for their awesome and easy to use Micro service and great documentation across the board. Also [Jared Wilcurt](https://twitter.com/thejaredwilcurt?lang=en) who would think this is pretty nifty.

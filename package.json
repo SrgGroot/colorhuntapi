@@ -1,0 +1,10 @@
+{
+  "name": "json-api",
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "micro": "latest",
+    "node-fetch": "^2.1.2"
+  }
+}

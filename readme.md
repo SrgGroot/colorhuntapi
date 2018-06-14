@@ -51,4 +51,4 @@ Sam Groot
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ### Acknowledgments
-Hat tip to Zeit for their awesome and easy to use Micro service and great documentation across the board. Also [Jared Wilcurt](https://twitter.com/thejaredwilcurt?lang=en) who would think this is pretty nifty.
+Hat tip to Zeit for their awesome and easy to use Micro service and great documentation across the board. Also [Jared Wilcurt](https://github.com/TheJaredWilcurt) who would think this is pretty nifty.
